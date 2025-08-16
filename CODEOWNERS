@@ -1,6 +1,0 @@
-# Anyone can edit the website
-* @nwnd/nerds
-
-# Evan owns the Cloudflare config and CI definitions
-.github/workflows/ @ewpratten
-wrangler.toml      @ewpratten
